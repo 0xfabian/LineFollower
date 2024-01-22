@@ -42,4 +42,4 @@ Turbo Fabi completed the circuit with an impressive best time of **13.551 second
 ![pic1](./media/pic1.png)
 ![pic2](./media/pic2.png)
 ![pic3](./media/pic3.png)
-- [Watch the full video here!](https://youtu.be/HdzTXu5iEFA)
+[Watch the full video here!](https://youtu.be/HdzTXu5iEFA)
