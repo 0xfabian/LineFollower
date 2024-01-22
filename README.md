@@ -45,7 +45,8 @@ Contributions from the following individuals have made Turbo Fabi possible:
 ## Media 📸
 
 ### Videos
-- [Turbo Fabi in Action](./media/turbo_fabi_action.mp4)
+![pic4](./media/pic4.gif)
+- [You can watch the full video here!](https://youtu.be/HdzTXu5iEFA)
 
 ### Pictures
 ![pic1](./media/pic1.png)
