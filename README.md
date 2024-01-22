@@ -44,7 +44,7 @@ Contributions from the following individuals have made Turbo Fabi possible:
 - [alexalex200](https://github.com/alexalex200)
 - [dragos1113](https://github.com/dragos1113)
 
-## Media 📸
+## Media
 
 ### Videos
 - [You can watch the full video here!](https://youtu.be/HdzTXu5iEFA)
