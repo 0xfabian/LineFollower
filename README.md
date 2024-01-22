@@ -1,7 +1,6 @@
 # Turbo Fabi - Line Follower
 
 ![pic4](./media/pic4.gif)
-- [You can watch the full video here!](https://youtu.be/HdzTXu5iEFA)
 
 ## Project Overview 🤖
 
@@ -39,6 +38,7 @@ Contributions from the following individuals have made Turbo Fabi possible:
 ![pic1](./media/pic1.png)
 ![pic2](./media/pic2.png)
 ![pic3](./media/pic3.png)
+- [You can watch the full video here!](https://youtu.be/HdzTXu5iEFA)
 
 ## Best Time Achievement 🏆
 
