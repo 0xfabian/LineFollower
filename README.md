@@ -1,5 +1,7 @@
 # Turbo Fabi - Line Follower
 
+![pic4](./media/pic4.gif)
+
 ## Project Overview 🤖
 
 Welcome to Turbo Fabi, a line follower project that utilizes PID control. Turbo Fabi is a robot designed to autonomously track and follow a predefined path marked by a visible line on the ground. This project is implemented using the Arduino Uno and motor drivers, with infrared (IR) sensors for line detection.
@@ -45,7 +47,6 @@ Contributions from the following individuals have made Turbo Fabi possible:
 ## Media 📸
 
 ### Videos
-![pic4](./media/pic4.gif)
 - [You can watch the full video here!](https://youtu.be/HdzTXu5iEFA)
 
 ### Pictures
