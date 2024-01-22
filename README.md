@@ -48,7 +48,9 @@ Contributions from the following individuals have made Turbo Fabi possible:
 - [Turbo Fabi in Action](./media/turbo_fabi_action.mp4)
 
 ### Pictures
-![Turbo Fabi Robot](./media/turbo_fabi_robot.jpg)
+![pic1](./media/pic1.png)
+![pic2](./media/pic2.png)
+![pic3](./media/pic3.png)
 
 ## Best Time Achievement 🏆
 
