@@ -34,12 +34,12 @@ Contributions from the following individuals have made Turbo Fabi possible:
 - [alexalex200](https://github.com/alexalex200)
 - [dragos1113](https://github.com/dragos1113)
 
+## Best Time Achievement 🏆
+
+Turbo Fabi completed the circuit with an impressive best time of **13.551 seconds**.
+
 ## Media 📸
 ![pic1](./media/pic1.png)
 ![pic2](./media/pic2.png)
 ![pic3](./media/pic3.png)
 - [You can watch the full video here!](https://youtu.be/HdzTXu5iEFA)
-
-## Best Time Achievement 🏆
-
-Turbo Fabi completed the circuit with an impressive best time of **13.551 seconds**.
