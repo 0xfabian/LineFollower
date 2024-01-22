@@ -2,10 +2,6 @@
 
 ![pic4](./media/pic4.gif)
 
-## Best Time Achievement 🏆
-
-Turbo Fabi completed the circuit with an impressive best time of **13.551 seconds**.
-
 ## Project Overview 🤖
 
 Welcome to Turbo Fabi, a line follower project that utilizes PID control. Turbo Fabi is a robot designed to autonomously track and follow a predefined path marked by a visible line on the ground. This project is implemented using the Arduino Uno and motor drivers, with infrared (IR) sensors for line detection.
@@ -37,9 +33,13 @@ Contributions from the following individuals have made Turbo Fabi possible:
 - [0xfabian](https://github.com/0xfabian)
 - [alexalex200](https://github.com/alexalex200)
 - [dragos1113](https://github.com/dragos1113)
-- 
+
+## Best Time Achievement 🏆
+
+Turbo Fabi completed the circuit with an impressive best time of **13.551 seconds**.
+ 
 ## Media 📸
 ![pic1](./media/pic1.png)
 ![pic2](./media/pic2.png)
 ![pic3](./media/pic3.png)
-- [You can watch the full video here!](https://youtu.be/HdzTXu5iEFA)
+- [Watch the full video here!](https://youtu.be/HdzTXu5iEFA)
