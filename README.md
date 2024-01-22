@@ -11,11 +11,11 @@ Welcome to Turbo Fabi, a line follower project that utilizes PID control. Turbo 
 
 Here's a list of components used in Turbo Fabi's construction:
 
-- **Chassis**: *Foamboard structure for a lightweight and customizable build.*
+- **Chassis**: Foamboard structure for a lightweight and customizable build.
   
-- **Arduino Uno**: *The brain of Turbo Fabi, controlling its movements and interactions with sensors.*
+- **Arduino Uno**: The brain of Turbo Fabi, controlling its movements and interactions with sensors.
   
-- **Mini Breadboard**: *For easy prototyping and connecting electronic components.*
+- **Mini Breadboard**: For easy prototyping and connecting electronic components.
   
 - **L293D Driver**: The L293D controls the small DC motors.
   
