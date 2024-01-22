@@ -8,7 +8,7 @@ Welcome to Turbo Fabi, a line follower project that utilizes PID control. Turbo 
 
 ## Table of Contents 📋
 
-- [Project Overview](#project-overview)
+- [Project Overview](#project-overview-🤖)
 - [Dependencies](#dependencies)
 - [Hardware Requirements](#hardware-requirements)
 - [Usage](#usage)
