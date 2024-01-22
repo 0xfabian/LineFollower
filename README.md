@@ -11,7 +11,7 @@ Welcome to Turbo Fabi, a line follower project that utilizes PID control. Turbo 
 
 Here's a list of components used in Turbo Fabi's construction:
 
-- **Chassis**: Foamboard structure for a lightweight and customizable build.
+- ***Chassis***: Foamboard structure for a lightweight and customizable build.
   
 - **Arduino Uno**: The brain of Turbo Fabi, controlling its movements and interactions with sensors.
   
