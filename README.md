@@ -7,25 +7,29 @@
 
 Welcome to Turbo Fabi, a line follower project that utilizes PID control. Turbo Fabi is a robot designed to autonomously track and follow a predefined path marked by a visible line on the ground. This project is implemented using the Arduino Uno and motor drivers, with infrared (IR) sensors for line detection.
 
-## Dependencies 🛠️
+## Components 🛠️
 
-- **Arduino IDE**: The project is developed using the Arduino platform, specifically the Arduino Uno.
-- **Motor Drivers**: The project assumes the use of motor drivers compatible with the Arduino Uno and chosen motors.
-- **Infrared (IR) Sensors**: Line following is typically implemented using IR sensors. Ensure you have the required number of sensors.
+Here's a list of components used in Turbo Fabi's construction:
 
-## Hardware Requirements 🚀
+- **Chassis**: Constructed from foamboard, providing a lightweight and customizable structure.
+- **Arduino Uno**: The brain of Turbo Fabi, controlling its movements and interactions with sensors.
+- **Mini Breadboard**: Used for easy prototyping and connecting electronic components on the robot.
+- **L293D Motor Driver**: The L293D controls the small DC motors.
+- **Wheels**: Two wheels attached to the motors, enabling Turbo Fabi to move along the track.
+- **Small DC Motors with Gearbox**: Two motors with a gearbox for precise control and movement.
+- **Ball Caster**: Positioned at the front of the robot to provide stability and smooth navigation.
+- **IR Sensor (QTR-8A)**: An infrared sensor used for line detection, allowing Turbo Fabi to follow the track.
+- **LiPo Battery (Kryptonium 2S1P 12V)**: A powerful and compact lithium-polymer battery, supplying energy to the motors and electronic components.
+- **Wires**: Various wires to connect the components, ensuring proper communication and power distribution.
 
-1. **Chassis**: A suitable robot chassis with two or more wheels.
-2. **Motors**: DC motors compatible with the Arduino Uno and chosen motor drivers.
-3. **Wheels**: Wheels suitable for the chosen chassis and motors.
-4. **IR Sensors**: Infrared sensors for detecting the line on the ground.
-5. **Battery**: A power source suitable for your motors and electronic components.
+These carefully chosen components work together to create a well-balanced and efficient line-following robot, with the L293D motor driver IC providing essential motor control capabilities.
 
 ## Usage 🎮
 
 1. Set up Turbo Fabi on a track with a visible line.
 2. Power on Turbo Fabi.
-3. Watch as Turbo Fabi autonomously follows the line.
+3. Let Turbo Fabi calibrate its sensors.
+4. Watch as Turbo Fabi autonomously follows the line.
 
 ## Contributing 🤝
 
