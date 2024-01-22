@@ -17,7 +17,7 @@ Here's a list of components used in Turbo Fabi's construction:
   
 - **Mini Breadboard**: For easy prototyping and connecting electronic components.
   
-- **L293D Driver**: The L293D controls the small DC motors.
+- **L293D Driver**: Controls the small DC motors.
   
 - **Wheels**: Two wheels for movement along the track.
   
